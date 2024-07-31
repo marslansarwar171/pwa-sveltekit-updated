@@ -1,0 +1,27 @@
+{
+    "name": "Web Academy",
+    "short_name": "Web Academy",
+    "start_url": "/",
+    "id": "/",
+    "display": "standalone",
+    "background_color": "#17191c",
+    "theme_color": "#ff3f20",
+    "description": "Courses for learning web dev",
+    "icons": [
+        {
+            "src": "pwa-64x64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "pwa-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "pwa-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
